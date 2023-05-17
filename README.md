@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TiBisiek
 - 👀 I’m interested in ... Web & desktop apps development
-- 🌱 I’m currently learning ... HTML, CSS, Python
+- 🌱 I’m currently learning ... HTML, CSS, Python, PHP, JS
 - 📫 How to reach me ... jaqmoch@gmail.com
 
 <!---
