@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @m-kuba
-- 👀 I’m interested in ... Web & desktop apps development
+- 👀 I’m interested in ... Web & desktop apps development, motorsport
 - 🌱 I’m currently learning ... HTML, CSS, Python, PHP, JS, SQL
 - 📫 How to reach me ... jaqmoch@gmail.com
 
