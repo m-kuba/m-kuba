@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @m-kuba
-- 👀 I’m interested in ... Web & desktop apps development, motorsport
-- 🌱 I’m currently learning ... HTML, CSS, Python, PHP, JS, SQL
-- 📫 How to reach me ... jaqmoch@gmail.com
+Hi, I’m @m-kuba
+- Interested in: Web & desktop apps development, motorsport
+- Currently learing: HTML, CSS, Python, PHP, JS, SQL
+- Contact: jaqmoch@gmail.com
 
 <!---
 TiBisiek/TiBisiek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
