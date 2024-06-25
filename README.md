@@ -1,6 +1,6 @@
 Hi, I’m @m-kuba
 - Interested in: Web & desktop apps development, motorsport
-- Currently learing: HTML, CSS, Python, PHP, JS, SQL
+- Currently learing: JS, Jquery
 - Contact: jaqmoch@gmail.com
 
 <!---
