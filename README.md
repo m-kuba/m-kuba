@@ -1,7 +1,6 @@
 Hi, I’m @m-kuba
-- Interested in: Web & desktop apps development, motorsport
-- Currently learing: JS, Jquery
-- Contact: jaqmoch@gmail.com
+- Interested in: Web & desktop apps development, motorsport.
+- Currently learing: c++, Java, Spring Boot.
 
 <!---
 TiBisiek/TiBisiek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
