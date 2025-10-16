@@ -1,6 +1,4 @@
-Hi, I’m @m-kuba
-- Interested in: Web & desktop apps development, motorsport.
-- Currently learing: c++, Java, Spring Boot.
+Can't race the house.
 
 <!---
 TiBisiek/TiBisiek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
